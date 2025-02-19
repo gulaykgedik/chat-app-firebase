@@ -4,8 +4,11 @@
 This project is a Chat Application that allows real-time messaging using Firebase. You can log in with Google and chat in different rooms.
 It features a fun and modern design with a fully responsive layout.
 
-##🚀 Live Demo
+
+
+## 🚀 Live Demo
 <br/>
+
 https://vercel.com/gulay-s-projects/chat-app-firebase
 
 ## 🛠️ Technologies Used
