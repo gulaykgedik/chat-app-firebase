@@ -11,10 +11,11 @@ https://vercel.com/gulay-s-projects/chat-app-firebase
 ## 🛠️ Technologies Used
 <br/>
 
-React – Component-based structure
-Firebase – Real-time database and authentication
-TailwindCSS – Responsive and modern UI
-Emoji-Picker-React – Add emojis to messages
+* React – Component-based structure
+* Firebase – Real-time database and authentication
+* TailwindCSS – Responsive and modern UI
+* Emoji-Picker-React – Add emojis to messages
+* React-DOM – Optimized virtual DOM performance
 
 ## 🎯 Features
 <br/>
@@ -30,7 +31,7 @@ Emoji-Picker-React – Add emojis to messages
 
 
 
-https://github.com/user-attachments/assets/6e25445c-4c0b-4af2-9ccf-ad8ce1951ec8
+
 
 
 
