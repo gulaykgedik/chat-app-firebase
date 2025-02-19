@@ -24,10 +24,15 @@ https://vercel.com/gulay-s-projects/chat-app-firebase
 <br/>
 
 ✅ Login with Google
+
 ✅ Real-time Chat
+
 ✅ Multiple Chat Rooms
+
 ✅ Mobile-Friendly (Responsive)
+
 ✅ Emoji Support
+
 
 ## 📸 Screenshots
 <br/>
