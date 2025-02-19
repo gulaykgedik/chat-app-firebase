@@ -38,6 +38,7 @@ https://vercel.com/gulay-s-projects/chat-app-firebase
 <br/>
 
 
+![chat](https://github.com/user-attachments/assets/97dcc77e-afc9-4c9d-96fb-bbcdb32f3d47)
 
 
 
